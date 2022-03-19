@@ -32,7 +32,7 @@ Seguem alguns projetos relacionados:
 
 ## Screenshots
 
-![App Screenshot](/Screenshot_2.png)
+![App Screenshot](/assets/img/Screenshot_2.png)
 
 ## Stack utilizada
 
