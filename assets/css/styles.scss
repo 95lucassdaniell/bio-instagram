@@ -133,11 +133,10 @@ main {
     i {
       transform: scale(1.6);
       transition: 0.3s;
-      color: rgba(255, 255, 255, 0.7);
     }
 
     i:hover {
-      color: #fff;
+      color: rgba(255, 255, 255, 0.7);
     }
   }
 }
@@ -147,9 +146,9 @@ footer {
   padding: 20px;
   border-radius: 10px;
 
-  a:hover {
+  p {
+    font-size: 0.825rem;
     color: rgba(255, 255, 255, 0.702);
-    text-decoration: underline;
   }
 }
 
@@ -187,12 +186,6 @@ footer {
     }
 
     p {
-      font-size: 0.906rem;
-    }
-  }
-
-  footer {
-    a {
       font-size: 0.906rem;
     }
   }

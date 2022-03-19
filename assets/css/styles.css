@@ -165,11 +165,10 @@ main .social i {
           transform: scale(1.6);
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  color: rgba(255, 255, 255, 0.7);
 }
 
 main .social i:hover {
-  color: #fff;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 footer {
@@ -178,9 +177,9 @@ footer {
   border-radius: 10px;
 }
 
-footer a:hover {
+footer p {
+  font-size: 0.825rem;
   color: rgba(255, 255, 255, 0.702);
-  text-decoration: underline;
 }
 
 @media (max-width: 552px) {
@@ -203,9 +202,6 @@ footer a:hover {
     font-size: 0.906rem;
   }
   main p {
-    font-size: 0.906rem;
-  }
-  footer a {
     font-size: 0.906rem;
   }
 }
