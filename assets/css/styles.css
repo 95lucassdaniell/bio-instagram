@@ -113,13 +113,7 @@ main article .title {
   gap: 20px;
 }
 
-main article .title i {
-  -webkit-transform: scale(1.6);
-          transform: scale(1.6);
-  color: rgba(255, 255, 255, 0.8);
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
-}
+
 
 main article .title h3 {
   font-size: 1rem;
